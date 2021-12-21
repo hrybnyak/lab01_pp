@@ -1,0 +1,16 @@
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.exe
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.deps.json
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.runtimeconfig.json
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.runtimeconfig.dev.json
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.dll
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\ref\CasSynchronization.dll
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\bin\Debug\net5.0\CasSynchronization.pdb
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.csproj.AssemblyReference.cache
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.AssemblyInfoInputs.cache
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.AssemblyInfo.cs
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.dll
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\ref\CasSynchronization.dll
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.pdb
+C:\Users\y.s.hrybniak\Documents\School\lab01_pp\CasSynchronization\obj\Debug\net5.0\CasSynchronization.genruntimeconfig.cache
