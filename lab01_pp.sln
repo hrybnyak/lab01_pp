@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockFreeSkipList", "LockFre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelAndScottAlgorithm", "MichaelAndScottAlgorithm\MichaelAndScottAlgorithm.csproj", "{EE878D72-E7E8-4ADC-BF29-D3F56299E07B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarrisAlgorithm", "HarrisAlgorithm\HarrisAlgorithm.csproj", "{4127BAA2-FD28-44AF-B004-912A6878E767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EE878D72-E7E8-4ADC-BF29-D3F56299E07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE878D72-E7E8-4ADC-BF29-D3F56299E07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE878D72-E7E8-4ADC-BF29-D3F56299E07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4127BAA2-FD28-44AF-B004-912A6878E767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127BAA2-FD28-44AF-B004-912A6878E767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127BAA2-FD28-44AF-B004-912A6878E767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127BAA2-FD28-44AF-B004-912A6878E767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
