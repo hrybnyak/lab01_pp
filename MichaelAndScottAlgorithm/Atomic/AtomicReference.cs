@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 
-namespace LockFreeSkipList.Atomic
+namespace MichaelAndScottAlgorithm.Atomic
 {
     public class AtomicReference<T> where T : class
     {
